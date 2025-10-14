@@ -1,0 +1,6 @@
+@ConsultaCep.WebApi_HostAddress = http://localhost:5116
+
+GET {{ConsultaCep.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

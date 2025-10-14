@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A49A070-C2B0-42B9-81FB-CAF7DA0CDDE9}|src\\ConsultaCep.WebApi\\ConsultaCep.WebApi.csproj|c:\\projects\\consulta-de-cep\\consultacep\\src\\consultacep.webapi\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A49A070-C2B0-42B9-81FB-CAF7DA0CDDE9}|src\\ConsultaCep.WebApi\\ConsultaCep.WebApi.csproj|solutionrelative:src\\consultacep.webapi\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E55465-D137-4421-A851-4F925FE9E1F3}|src\\ConsultaCep.Infrastructure\\ConsultaCep.Infrastructure.csproj|c:\\projects\\consulta-de-cep\\consultacep\\src\\consultacep.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E55465-D137-4421-A851-4F925FE9E1F3}|src\\ConsultaCep.Infrastructure\\ConsultaCep.Infrastructure.csproj|solutionrelative:src\\consultacep.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69918585-EFD2-4F33-8E02-27C3717AD196}|src\\ConsultaCep.Domain\\ConsultaCep.Domain.csproj|c:\\projects\\consulta-de-cep\\consultacep\\src\\consultacep.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69918585-EFD2-4F33-8E02-27C3717AD196}|src\\ConsultaCep.Domain\\ConsultaCep.Domain.csproj|solutionrelative:src\\consultacep.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68733B3E-C37F-4579-A8CF-23458242D75D}|src\\ConsultaCep.Application\\ConsultaCep.Application.csproj|c:\\projects\\consulta-de-cep\\consultacep\\src\\consultacep.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68733B3E-C37F-4579-A8CF-23458242D75D}|src\\ConsultaCep.Application\\ConsultaCep.Application.csproj|solutionrelative:src\\consultacep.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\src\\ConsultaCep.WebApi\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "src\\ConsultaCep.WebApi\\Controllers\\HealthController.cs",
+              "ToolTip": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\src\\ConsultaCep.WebApi\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "src\\ConsultaCep.WebApi\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T18:02:01.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\src\\ConsultaCep.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\ConsultaCep.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\src\\ConsultaCep.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "src\\ConsultaCep.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T01:56:50.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\src\\ConsultaCep.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\ConsultaCep.Application\\Class1.cs",
+              "ToolTip": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\src\\ConsultaCep.Application\\Class1.cs",
+              "RelativeToolTip": "src\\ConsultaCep.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T01:55:51.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\src\\ConsultaCep.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\ConsultaCep.Domain\\Class1.cs",
+              "ToolTip": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\src\\ConsultaCep.Domain\\Class1.cs",
+              "RelativeToolTip": "src\\ConsultaCep.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T01:55:40.135Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
