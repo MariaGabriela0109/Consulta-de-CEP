@@ -3,7 +3,7 @@
 namespace ConsultaCep.WebApi.Controllers
 {
     [ApiController]
-    [Route("health")] // endpoint como /health
+    [Route("health")] // endpoint /health
     public class HealthController : ControllerBase
     {
         [HttpGet]

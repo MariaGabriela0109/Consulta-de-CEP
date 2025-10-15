@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsultaCep.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e19f16fcaa06ca20177660f6ffd3ffcb8beb769")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b216d2c613ab6e357fa97eec61de0059574e915")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsultaCep.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsultaCep.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

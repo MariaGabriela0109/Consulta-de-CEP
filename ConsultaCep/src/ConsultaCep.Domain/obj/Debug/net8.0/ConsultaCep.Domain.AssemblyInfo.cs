@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsultaCep.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21ab14dea387b3b8cb56c201662d86470a6b73c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b216d2c613ab6e357fa97eec61de0059574e915")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsultaCep.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsultaCep.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
