@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8A49A070-C2B0-42B9-81FB-CAF7DA0CDDE9}|src\\ConsultaCep.WebApi\\ConsultaCep.WebApi.csproj|c:\\projects\\consulta-de-cep\\consultacep\\src\\consultacep.webapi\\consultacep.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A49A070-C2B0-42B9-81FB-CAF7DA0CDDE9}|src\\ConsultaCep.WebApi\\ConsultaCep.WebApi.csproj|solutionrelative:src\\consultacep.webapi\\consultacep.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A49A070-C2B0-42B9-81FB-CAF7DA0CDDE9}|src\\ConsultaCep.WebApi\\ConsultaCep.WebApi.csproj|c:\\projects\\consulta-de-cep\\consultacep\\src\\consultacep.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A49A070-C2B0-42B9-81FB-CAF7DA0CDDE9}|src\\ConsultaCep.WebApi\\ConsultaCep.WebApi.csproj|solutionrelative:src\\consultacep.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68733B3E-C37F-4579-A8CF-23458242D75D}|src\\ConsultaCep.Application\\ConsultaCep.Application.csproj|c:\\projects\\consulta-de-cep\\consultacep\\src\\consultacep.application\\consultacep.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68733B3E-C37F-4579-A8CF-23458242D75D}|src\\ConsultaCep.Application\\ConsultaCep.Application.csproj|solutionrelative:src\\consultacep.application\\consultacep.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8A49A070-C2B0-42B9-81FB-CAF7DA0CDDE9}|src\\ConsultaCep.WebApi\\ConsultaCep.WebApi.csproj|c:\\projects\\consulta-de-cep\\consultacep\\src\\consultacep.webapi\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A49A070-C2B0-42B9-81FB-CAF7DA0CDDE9}|src\\ConsultaCep.WebApi\\ConsultaCep.WebApi.csproj|solutionrelative:src\\consultacep.webapi\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultaCep.Application",
+              "DocumentMoniker": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\src\\ConsultaCep.Application\\ConsultaCep.Application.csproj",
+              "RelativeDocumentMoniker": "src\\ConsultaCep.Application\\ConsultaCep.Application.csproj",
+              "ToolTip": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\src\\ConsultaCep.Application\\ConsultaCep.Application.csproj",
+              "RelativeToolTip": "src\\ConsultaCep.Application\\ConsultaCep.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-15T01:23:34.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\src\\ConsultaCep.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ConsultaCep.WebApi\\Program.cs",
+              "ToolTip": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\src\\ConsultaCep.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\ConsultaCep.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T00:25:17.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ConsultaCep.WebApi",
+              "DocumentMoniker": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\src\\ConsultaCep.WebApi\\ConsultaCep.WebApi.csproj",
+              "RelativeDocumentMoniker": "src\\ConsultaCep.WebApi\\ConsultaCep.WebApi.csproj",
+              "ToolTip": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\src\\ConsultaCep.WebApi\\ConsultaCep.WebApi.csproj",
+              "RelativeToolTip": "src\\ConsultaCep.WebApi\\ConsultaCep.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-15T00:23:51.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HealthController.cs",
               "DocumentMoniker": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\src\\ConsultaCep.WebApi\\Controllers\\HealthController.cs",
               "RelativeDocumentMoniker": "src\\ConsultaCep.WebApi\\Controllers\\HealthController.cs",
@@ -43,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\src\\ConsultaCep.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "src\\ConsultaCep.Infrastructure\\Class1.cs",
@@ -51,12 +102,11 @@
               "RelativeToolTip": "src\\ConsultaCep.Infrastructure\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T01:56:50.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T01:56:50.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\src\\ConsultaCep.Application\\Class1.cs",
               "RelativeDocumentMoniker": "src\\ConsultaCep.Application\\Class1.cs",
@@ -68,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\src\\ConsultaCep.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "src\\ConsultaCep.Domain\\Class1.cs",
