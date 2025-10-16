@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "ConsultaCep.Application/1.0.0": {
+        "dependencies": {
+          "ConsultaCep.Domain": "1.0.0"
+        },
         "runtime": {
           "ConsultaCep.Application.dll": {}
+        }
+      },
+      "ConsultaCep.Domain/1.0.0": {
+        "runtime": {
+          "ConsultaCep.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "ConsultaCep.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsultaCep.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

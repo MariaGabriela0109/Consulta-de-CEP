@@ -1,0 +1,12 @@
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Domain\bin\Debug\net8.0\ConsultaCep.Domain.deps.json
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Domain\bin\Debug\net8.0\ConsultaCep.Domain.dll
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Domain\bin\Debug\net8.0\ConsultaCep.Domain.pdb
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Domain\obj\Debug\net8.0\ConsultaCep.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Domain\obj\Debug\net8.0\ConsultaCep.Domain.AssemblyInfoInputs.cache
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Domain\obj\Debug\net8.0\ConsultaCep.Domain.AssemblyInfo.cs
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Domain\obj\Debug\net8.0\ConsultaCep.Domain.csproj.CoreCompileInputs.cache
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Domain\obj\Debug\net8.0\ConsultaCep.Domain.sourcelink.json
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Domain\obj\Debug\net8.0\ConsultaCep.Domain.dll
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Domain\obj\Debug\net8.0\refint\ConsultaCep.Domain.dll
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Domain\obj\Debug\net8.0\ConsultaCep.Domain.pdb
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Domain\obj\Debug\net8.0\ref\ConsultaCep.Domain.dll

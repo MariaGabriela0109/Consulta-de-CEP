@@ -10,3 +10,7 @@ C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Application\obj\Debug\ne
 C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Application\obj\Debug\net8.0\refint\ConsultaCep.Application.dll
 C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Application\obj\Debug\net8.0\ConsultaCep.Application.pdb
 C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Application\obj\Debug\net8.0\ref\ConsultaCep.Application.dll
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Application\bin\Debug\net8.0\ConsultaCep.Domain.dll
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Application\bin\Debug\net8.0\ConsultaCep.Domain.pdb
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Application\obj\Debug\net8.0\ConsultaCep.Application.csproj.AssemblyReference.cache
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Application\obj\Debug\net8.0\Consulta.683DB837.Up2Date

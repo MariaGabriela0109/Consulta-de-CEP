@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsultaCep.Domain.Entities
 {
-    
-    internal class Endereco
+
+    public
+        class Endereco
     {
         public string Cep { get; private set; }
         public string Logradouro { get; private set; }
@@ -28,5 +29,8 @@ namespace ConsultaCep.Domain.Entities
             Localidade = localidade;
             Uf = uf;
         }
+
+
     }
+
 }

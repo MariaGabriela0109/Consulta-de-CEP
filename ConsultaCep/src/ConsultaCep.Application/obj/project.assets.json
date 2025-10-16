@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "ConsultaCep.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ConsultaCep.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsultaCep.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ConsultaCep.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ConsultaCep.Domain/ConsultaCep.Domain.csproj",
+      "msbuildProject": "../ConsultaCep.Domain/ConsultaCep.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "ConsultaCep.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\dti-\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\src\\ConsultaCep.Domain\\ConsultaCep.Domain.csproj": {
+              "projectPath": "C:\\projects\\Consulta-de-CEP\\ConsultaCep\\src\\ConsultaCep.Domain\\ConsultaCep.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

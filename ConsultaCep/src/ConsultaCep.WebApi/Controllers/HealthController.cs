@@ -2,14 +2,17 @@
 
 namespace ConsultaCep.WebApi.Controllers
 {
+    /// <summary>
+    /// </summary>
     [ApiController]
-    [Route("health")] // endpoint /health
+    [Route("health")]
     public class HealthController : ControllerBase
     {
+        /// <summary>
+        /// </summary>
         [HttpGet]
         public IActionResult Get()
         {
-            // status HTTP 200 OK 
             return Ok(new { status = "API está online!" });
         }
     }

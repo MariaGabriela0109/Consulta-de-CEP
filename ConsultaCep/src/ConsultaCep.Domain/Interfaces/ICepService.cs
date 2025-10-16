@@ -7,12 +7,9 @@ using System.Threading.Tasks;
 
 namespace ConsultaCep.Domain.Interfaces
 {
-    internal interface ICepService
+    public interface ICepService
     {
-        public interface ICepService
-        {
-            //Dado um CEP (string), retorne um Endereco (Entidade)
-            Task<Endereco> ConsultarCepAsync(string cep);
-        }
+        //Dado um CEP (string), retorne um Endereco (Entidade)
+        Task<Endereco>ConsultarCepAsync(string cep);
     }
 }
