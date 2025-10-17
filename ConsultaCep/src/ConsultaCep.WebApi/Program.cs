@@ -1,11 +1,13 @@
 using Microsoft.OpenApi.Models;
 using System.Reflection;
 using System.IO;
+using ConsultaCep.WebApi.Configurations;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddInfrastructure();
 
 builder.Services.AddSwaggerGen(options =>
 {

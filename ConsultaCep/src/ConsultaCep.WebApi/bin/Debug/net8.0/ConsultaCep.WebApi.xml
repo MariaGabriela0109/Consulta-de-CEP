@@ -4,6 +4,14 @@
         <name>ConsultaCep.WebApi</name>
     </assembly>
     <members>
+        <member name="T:ConsultaCep.WebApi.Configurations.DependencyInjectionConfig">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:ConsultaCep.WebApi.Configurations.DependencyInjectionConfig.AddInfrastructure(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            </summary>
+        </member>
         <member name="T:ConsultaCep.WebApi.Controllers.CepController">
             <summary>
             </summary>

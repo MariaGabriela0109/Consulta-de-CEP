@@ -9,6 +9,7 @@
       "ConsultaCep.WebApi/1.0.0": {
         "dependencies": {
           "ConsultaCep.Application": "1.0.0",
+          "ConsultaCep.Infrastructure": "1.0.0",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
         "runtime": {
@@ -80,6 +81,17 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "ConsultaCep.Infrastructure/1.0.0": {
+        "dependencies": {
+          "ConsultaCep.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ConsultaCep.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -137,6 +149,11 @@
       "sha512": ""
     },
     "ConsultaCep.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsultaCep.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

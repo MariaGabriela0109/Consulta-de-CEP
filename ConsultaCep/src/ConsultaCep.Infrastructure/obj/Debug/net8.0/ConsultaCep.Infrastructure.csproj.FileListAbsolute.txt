@@ -1,0 +1,16 @@
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Infrastructure\bin\Debug\net8.0\ConsultaCep.Infrastructure.deps.json
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Infrastructure\bin\Debug\net8.0\ConsultaCep.Infrastructure.dll
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Infrastructure\bin\Debug\net8.0\ConsultaCep.Infrastructure.pdb
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Infrastructure\bin\Debug\net8.0\ConsultaCep.Domain.dll
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Infrastructure\bin\Debug\net8.0\ConsultaCep.Domain.pdb
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Infrastructure\obj\Debug\net8.0\ConsultaCep.Infrastructure.csproj.AssemblyReference.cache
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Infrastructure\obj\Debug\net8.0\ConsultaCep.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Infrastructure\obj\Debug\net8.0\ConsultaCep.Infrastructure.AssemblyInfoInputs.cache
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Infrastructure\obj\Debug\net8.0\ConsultaCep.Infrastructure.AssemblyInfo.cs
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Infrastructure\obj\Debug\net8.0\ConsultaCep.Infrastructure.csproj.CoreCompileInputs.cache
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Infrastructure\obj\Debug\net8.0\ConsultaCep.Infrastructure.sourcelink.json
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Infrastructure\obj\Debug\net8.0\Consulta.2C1B2631.Up2Date
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Infrastructure\obj\Debug\net8.0\ConsultaCep.Infrastructure.dll
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Infrastructure\obj\Debug\net8.0\refint\ConsultaCep.Infrastructure.dll
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Infrastructure\obj\Debug\net8.0\ConsultaCep.Infrastructure.pdb
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.Infrastructure\obj\Debug\net8.0\ref\ConsultaCep.Infrastructure.dll

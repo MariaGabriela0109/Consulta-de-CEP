@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ConsultaCep.Application\ConsultaCep.Application.csproj" />
+    <ProjectReference Include="..\ConsultaCep.Infrastructure\ConsultaCep.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

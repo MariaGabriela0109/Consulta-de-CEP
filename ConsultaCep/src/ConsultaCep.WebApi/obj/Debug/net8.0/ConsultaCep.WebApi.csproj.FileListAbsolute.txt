@@ -40,3 +40,5 @@ C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.WebApi\obj\Debug\net8.0\
 C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.WebApi\obj\Debug\net8.0\ref\ConsultaCep.WebApi.dll
 C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.WebApi\bin\Debug\net8.0\ConsultaCep.Domain.dll
 C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.WebApi\bin\Debug\net8.0\ConsultaCep.Domain.pdb
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.WebApi\bin\Debug\net8.0\ConsultaCep.Infrastructure.dll
+C:\projects\Consulta-de-CEP\ConsultaCep\src\ConsultaCep.WebApi\bin\Debug\net8.0\ConsultaCep.Infrastructure.pdb
