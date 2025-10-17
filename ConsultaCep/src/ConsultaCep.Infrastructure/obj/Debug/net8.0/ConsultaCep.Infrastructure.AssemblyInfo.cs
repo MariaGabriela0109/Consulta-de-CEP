@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsultaCep.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c246410cb8d568f122a2c0cbacb6f76cd9e22241")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1eff733ff8971828730fbe4e5c999d30099f7832")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsultaCep.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsultaCep.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36511.14 d17.14
+VisualStudioVersion = 17.14.36511.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsultaCep.Application", "src\ConsultaCep.Application\ConsultaCep.Application.csproj", "{68733B3E-C37F-4579-A8CF-23458242D75D}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsultaCep.Infrastructure", "src\ConsultaCep.Infrastructure\ConsultaCep.Infrastructure.csproj", "{35E55465-D137-4421-A851-4F925FE9E1F3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsultaCep.WebApi", "src\ConsultaCep.WebApi\ConsultaCep.WebApi.csproj", "{8A49A070-C2B0-42B9-81FB-CAF7DA0CDDE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsultaCep.Application.Tests", "ConsultaCep.Application.Tests\ConsultaCep.Application.Tests.csproj", "{744C7074-C988-49C8-8CA5-844B97038E9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{8A49A070-C2B0-42B9-81FB-CAF7DA0CDDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A49A070-C2B0-42B9-81FB-CAF7DA0CDDE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A49A070-C2B0-42B9-81FB-CAF7DA0CDDE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{744C7074-C988-49C8-8CA5-844B97038E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744C7074-C988-49C8-8CA5-844B97038E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744C7074-C988-49C8-8CA5-844B97038E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744C7074-C988-49C8-8CA5-844B97038E9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
