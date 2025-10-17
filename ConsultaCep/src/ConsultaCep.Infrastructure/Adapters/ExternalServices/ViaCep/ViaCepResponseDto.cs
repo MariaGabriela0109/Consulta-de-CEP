@@ -26,6 +26,6 @@ namespace ConsultaCep.Infrastructure.Adapters.ExternalServices.ViaCep
         public string? Gia { get; set; }
         public string? Ddd { get; set; }
         public string? Siafi { get; set; }
-        public bool Erro { get; set; } //quando o cep não é encontrado
+        public bool Erro { get; set; } //cep não encontrado
     }
 }

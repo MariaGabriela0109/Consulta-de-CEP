@@ -1,5 +1,5 @@
-﻿using ConsultaCep.Domain.Entities; // Para retornar a Entidade Endereco
-using ConsultaCep.Domain.Interfaces; // Para implementar a porta ICepService
+﻿using ConsultaCep.Domain.Entities; // retornar Entidade Endereco
+using ConsultaCep.Domain.Interfaces; // implementar a porta ICepService
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,22 +25,22 @@ namespace ConsultaCep.Infrastructure.Adapters.ExternalServices.ViaCep
 
             try
             {
-                // 1. Execução e Tratamento de Erros de Comunicação
+                // Execução e Tratamento de Erros de Comunicação
                 var response = await _httpClient.GetAsync(url);
 
                 // Trata 404/500
                 response.EnsureSuccessStatusCode();
 
-                // 2. Desserializa o Retorno da API para o DTO
+                // Desserializa o Retorno da API para o DTO
                 var dto = await response.Content.ReadFromJsonAsync<ViaCepResponseDto>();
 
-                // 3. Trata CEP Inválido ou Não Encontrado
+                // Trata CEP Inválido ou Não Encontrado
                 if (dto == null || dto.Erro)
                 {
                     return null; 
                 }
 
-                // 4. Converte o DTO Externo para o Modelo Interno (Mapeamento)
+                // Converte o DTO Externo para o Modelo Interno (Mapeamento)
                 // Garante que dto.Cep não é nulo antes de Replace, usando o operador '?? ""'
                 // Operador de coalescência nula (?? "") em todos os campos string
                 var endereco = new Endereco(

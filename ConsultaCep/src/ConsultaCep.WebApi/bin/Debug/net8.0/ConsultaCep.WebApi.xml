@@ -4,6 +4,16 @@
         <name>ConsultaCep.WebApi</name>
     </assembly>
     <members>
+        <member name="T:ConsultaCep.WebApi.Controllers.CepController">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:ConsultaCep.WebApi.Controllers.CepController.#ctor(ConsultaCep.Application.Interfaces.IConsultarCepUseCase)">
+            <param name="consultarCepUseCases">A interface do Caso de Uso de Consulta.</param>
+        </member>
+        <member name="M:ConsultaCep.WebApi.Controllers.CepController.Get(System.String)">
+            <param name="cep">O CEP a ser consultado (apenas números).</param>
+        </member>
         <member name="T:ConsultaCep.WebApi.Controllers.HealthController">
             <summary>
             </summary>

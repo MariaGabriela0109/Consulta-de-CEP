@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace ConsultaCep.Application.DTOs
 {
-    public record EnderecoResponse(
-        string Cep,
-        string Logradouro,
-        string Complemento,
-        string Bairro,
-        string Localidade,
-        string Uf
-    );
+    public class EnderecoResponse
+    {
+        public string? Cep { get; set; }
+        public string? Logradouro { get; set; }
+        public string? Complemento { get; set; }
+        public string? Bairro { get; set; }
+        public string? Localidade { get; set; }
+        public string? Uf { get; set; }
+    }
 }
