@@ -10,6 +10,10 @@ namespace ConsultaCep.Domain.Interfaces
     public interface ICepService
     {
         //Dado um CEP (string), retorne um Endereco (Entidade)
-        Task<Endereco>ConsultarCepAsync(string cep);
+        Task<Endereco?>ConsultarCepAsync(string cep);
     }
 }
+/*
+O retorno 'null' (CEP não encontrado) viola a garantia de não-nulidade de Task<Endereco>. 
+Solução: Corrigir ICepService.cs para retornar Task<Endereco?> (anulável).
+*/

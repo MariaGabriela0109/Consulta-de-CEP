@@ -4,5 +4,13 @@
         <name>ConsultaCep.WebApi</name>
     </assembly>
     <members>
+        <member name="T:ConsultaCep.WebApi.Controllers.HealthController">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:ConsultaCep.WebApi.Controllers.HealthController.Get">
+            <summary>
+            </summary>
+        </member>
     </members>
 </doc>
